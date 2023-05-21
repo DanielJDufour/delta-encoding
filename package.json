@@ -1,6 +1,6 @@
 {
   "name": "delta-encoding",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Delta Encoding",
   "main": "index.js",
   "files": [
